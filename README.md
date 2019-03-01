@@ -3,9 +3,9 @@
 **TL;DR:** Drop by to learn about how Machine Learning (ML) works, how to write-up your own ML models, how to setup remote workloads to train your models, and get introduced to some of the APIs you have access to which can do quite a bit of your ML for you without training a model!
 
 **Table of Contents:**
-- Installation / Setup
-- **Part 1:** Intro to Machine Learning
-- **Part 2:** DevOps for Machine Learning
+- [Installation / Setup](#installation--setup)
+- [**Part 1:** Intro to Machine Learning](#part-1--intro-to-machine-learning)
+- [**Part 2:** DevOps for Machine Learning](#part-2--devops-for-machine-learning)
 
 ## Installation / Setup
 **You only need to install Anaconda on your machine. _This will take the better part of 30 minutes to download and install._**
