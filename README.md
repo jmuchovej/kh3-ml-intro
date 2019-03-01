@@ -4,8 +4,8 @@
 
 **Table of Contents:**
 - [Installation / Setup](#installation--setup)
-- [**Part 1:** Intro to Machine Learning](#part-1--intro-to-machine-learning)
-- [**Part 2:** DevOps for Machine Learning](#part-2--devops-for-machine-learning)
+- [**Part 1:** Intro to Machine Learning](#part-1-intro-to-machine-learning)
+- [**Part 2:** DevOps for Machine Learning](#part-2-devops-for-machine-learning)
 
 ## Installation / Setup
 **You only need to install Anaconda on your machine. _This will take the better part of 30 minutes to download and install._**
