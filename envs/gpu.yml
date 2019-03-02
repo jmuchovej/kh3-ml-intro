@@ -1,0 +1,16 @@
+name: kh3-ml-intro
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - scikit-learn
+  - pytorch=1.0.0
+  - torchvision
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - pandas
+  - numpy
+  - tqdm
